@@ -1,0 +1,10 @@
+Z:\datorika\programmesana\2\linoleja_ieklasana\AC_linoleja_ieklasana\AC_linoleja_ieklasana\bin\Debug\AC_linoleja_ieklasana.exe.config
+Z:\datorika\programmesana\2\linoleja_ieklasana\AC_linoleja_ieklasana\AC_linoleja_ieklasana\bin\Debug\AC_linoleja_ieklasana.exe
+Z:\datorika\programmesana\2\linoleja_ieklasana\AC_linoleja_ieklasana\AC_linoleja_ieklasana\bin\Debug\AC_linoleja_ieklasana.pdb
+Z:\datorika\programmesana\2\linoleja_ieklasana\AC_linoleja_ieklasana\AC_linoleja_ieklasana\obj\Debug\AC_linoleja_ieklasana.csprojAssemblyReference.cache
+Z:\datorika\programmesana\2\linoleja_ieklasana\AC_linoleja_ieklasana\AC_linoleja_ieklasana\obj\Debug\AC_linoleja_ieklasana.Form1.resources
+Z:\datorika\programmesana\2\linoleja_ieklasana\AC_linoleja_ieklasana\AC_linoleja_ieklasana\obj\Debug\AC_linoleja_ieklasana.Properties.Resources.resources
+Z:\datorika\programmesana\2\linoleja_ieklasana\AC_linoleja_ieklasana\AC_linoleja_ieklasana\obj\Debug\AC_linoleja_ieklasana.csproj.GenerateResource.cache
+Z:\datorika\programmesana\2\linoleja_ieklasana\AC_linoleja_ieklasana\AC_linoleja_ieklasana\obj\Debug\AC_linoleja_ieklasana.csproj.CoreCompileInputs.cache
+Z:\datorika\programmesana\2\linoleja_ieklasana\AC_linoleja_ieklasana\AC_linoleja_ieklasana\obj\Debug\AC_linoleja_ieklasana.exe
+Z:\datorika\programmesana\2\linoleja_ieklasana\AC_linoleja_ieklasana\AC_linoleja_ieklasana\obj\Debug\AC_linoleja_ieklasana.pdb

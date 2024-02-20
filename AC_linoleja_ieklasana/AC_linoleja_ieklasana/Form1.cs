@@ -16,5 +16,36 @@ namespace AC_linoleja_ieklasana
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e) //cena
+        {
+            double cena = Convert.ToDouble(numericUpDown1.Value);
+
+        }
+
+        private void numericUpDown2_ValueChanged(object sender, EventArgs e) //platums
+        {
+
+        }
+
+        private void numericUpDown3_ValueChanged(object sender, EventArgs e) //garums
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e) //aprekinat
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e) //izvade
+        {
+
+        }
     }
 }
